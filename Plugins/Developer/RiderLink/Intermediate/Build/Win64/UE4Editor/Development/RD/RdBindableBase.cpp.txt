@@ -1,0 +1,233 @@
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\RdBindableBase.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdBindable.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdDynamic.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\impl/RName.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\thirdparty.hpp
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_set.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cstddef
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\yvals_core.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\sal.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\concurrencysal.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\vadefs.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xkeycheck.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xtr1common
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdint
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\stdint.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\deque
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xmemory
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdlib.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\limits.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\limits
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cfloat
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\float.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\climits
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cwchar
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cstdio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\errno.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\intrin0.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\isa_availability.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xstddef
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\initializer_list
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\new
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\exception
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\crtdbg.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_new_debug.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_new.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\crtdefs.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\use_ansi.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\type_traits
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\malloc.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_exception.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xatomic.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xutility
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cstring
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memory.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\utility
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xpolymorphic_allocator.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\tuple
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\functional
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\typeinfo
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_typeinfo.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\memory
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\iosfwd
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\unordered_map
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xhash
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cmath
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\list
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\vector
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xbit_ops.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xstring
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xnode_handle.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl\ordered_hash.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\algorithm
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\iterator
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\stdexcept
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\ordered-map\include\tsl/ordered_map.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\optional\tl\optional.hpp
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark/variant.hpp
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\config.hpp
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\in_place.hpp
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\variant\include\mpark\lib.hpp
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\string-view-lite\include\nonstd/string_view.hpp
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\ostream
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\ios
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocnum
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\streambuf
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\system_error
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\__msvc_system_error_abi.hpp
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cerrno
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xcall_once.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xerrc.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\atomic
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xthreads.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xtimec.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocale
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xfacet
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocinfo.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cctype
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\ctype.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\string
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\rd_framework_export.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/Lifetime.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeImpl.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/hash.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\map
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xtree
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\mutex
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\chrono
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\ratio
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\thread
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\vcruntime_startup.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\rd_core_export.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/RdId.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Buffer.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/DateTime.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_util.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\erase_if.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\gen_util.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/allocator.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\overloaded.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util\shared_function.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/to_string.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\sstream
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\istream
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\future
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\condition_variable
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\ppltasks.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\pplwin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\pplinterface.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\ppltaskscheduler.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\crtdefs.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\pplcancellation_token.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\intrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\setjmp.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\immintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\wmmintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\nmmintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\smmintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\tmmintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\pmmintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\emmintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xmmintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\mmintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\zmmintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\ammintrin.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\locale
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocbuf
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocmes
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xlocmon
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\xloctime
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\codecvt
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/wrapper.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\util/core_traits.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\types/Void.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/spdlog.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/common.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/tweakme.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/null_mutex.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/fmt.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/core.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\string_view
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/fmt/bundled/format.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/registry.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/cfg/log_levels.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/logger.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/backtracer.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/log_msg_buffer.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/circular_q.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/os.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/version.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\thirdparty\spdlog\include\spdlog/details/synchronous_factory.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\iostream
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\cassert
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\assert.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/list.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\util\hashing.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IProtocol.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/Serializers.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/ISerializable.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\protocol/Identities.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IUnknownInstance.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization/RdAny.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\serialization\DefaultAbstractDeclaration.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\std/unordered_map.h
+D:\Visual Studio\VC\Tools\MSVC\14.29.30037\INCLUDE\unordered_set
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\scheduler/base/IScheduler.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IWire.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/base/interfaces.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base/IRdReactive.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\IRdWireable.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive/Property.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base/IProperty.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalX.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\SignalCookie.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\reactive\base\IPropertyBase.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime/SequentialLifetimes.h
+E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Source\RD\src\rd_core_cpp\src\main\lifetime\LifetimeDefinition.h
