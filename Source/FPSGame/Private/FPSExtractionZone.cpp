@@ -3,6 +3,11 @@
 
 #include "FPSExtractionZone.h"
 
+#include "FPSCharacter.h"
+#include "FPSGameMode.h"
+#include "Components/DecalComponent.h"
+#include "Kismet/GameplayStatics.h"
+
 // Sets default values
 AFPSExtractionZone::AFPSExtractionZone()
 {
@@ -16,13 +21,36 @@ AFPSExtractionZone::AFPSExtractionZone()
 	OverlapComp->SetHiddenInGame(false);
 	
 	OverlapComp->OnComponentBeginOverlap.AddDynamic(this, &AFPSExtractionZone::HandleOverlap);
+
+	DecalCompo = CreateDefaultSubobject<UDecalComponent>(TEXT("DecalComp"));
+	DecalCompo->DecalSize = FVector(200.0f);
+	DecalCompo->SetupAttachment(OverlapComp);
 }
 
 void AFPSExtractionZone::HandleOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp,
 	int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-	UE_LOG(LogTemp, Log, TEXT("Overlapped with extraction zone!"));
-	Destroy();
+	AFPSCharacter* MyPawn = Cast<AFPSCharacter>(OtherActor);
+	if (MyPawn == nullptr)
+	{
+		return;
+	}
+
+	if (MyPawn->bIsCarryingObjective)
+	{
+		UE_LOG(LogTemp, Log, TEXT("Overlapped with extraction zone!"));
+		
+		AFPSGameMode* GM = Cast<AFPSGameMode>(GetWorld()->GetAuthGameMode());
+		if (GM)
+		{
+			GM->CompleteMisson(MyPawn);
+		}
+	}
+	else
+	{
+		UGameplayStatics::PlaySound2D(this,ObjectiveMissingSound);
+	}
+	
 }
 
 

@@ -6,6 +6,7 @@
 /NAME:"UE4Editor-RiderShaderInfoDump-0001.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\UEC++Learning\Survival\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfoDump\RiderShaderInfoDump.cpp.obj"
-"E:\UEC++Learning\Survival\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfoDump\Default.rc2.res"
-/OUT:"E:\UEC++Learning\Survival\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfoDump\UE4Editor-RiderShaderInfoDump-0001.lib"
+"E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfoDump\RiderShaderInfoDump.cpp.obj"
+"E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfoDump\Default.rc2.res"
+/OUT:"E:\UEC++Learning\SimpleFPSTemplate-master\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfoDump\UE4Editor-RiderShaderInfoDump-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_RiderShaderInfoDump
