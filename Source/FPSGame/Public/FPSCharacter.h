@@ -13,7 +13,7 @@ class AFPSProjectile;
 class USoundBase;
 class UAnimSequence;
 class UParticleSystem;
-
+class UPawnNoiseEmitterComponent;
 
 UCLASS()
 class AFPSCharacter : public ACharacter
@@ -77,6 +77,9 @@ protected:
 	void MoveRight(float Val);
 
 	virtual void SetupPlayerInputComponent(UInputComponent* InputComponent) override;
+
+	UPROPERTY(VisibleAnywhere,BlueprintReadOnly,Category="AI")
+	UPawnNoiseEmitterComponent* NoiseEmitterComponent;
 
 public:
 	/** Returns Mesh1P subobject **/
